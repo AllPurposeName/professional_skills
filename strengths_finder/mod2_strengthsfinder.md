@@ -5,34 +5,7 @@ layout: page
 ---
 
 
-# Module Two StrengthsFinder: Who are you...as a Team Member?
 
-### Objectives:
-
-* Describe in detail how you contribute to teams using your strengths
-* Describe you might adapt your strengths according to team dynamics
-* Develop user stories to build empathy for teammates and describe team effectiveness
-* Discuss how to leverage others' strengths to work better in teams
-
-Edits:
--Coaching session: G.O.O.D.
--Use all 5 strengths; 
--Individual reflection first: read through action items (I could maybe pull together their action items ahead of time); reflect on 
--Gallery walk -- people fill out 
--In rotating partners, they describe themselves and describe how they are effective team members; they have to then discuss how they would work together as a 
--Look over Johari Windows -- how have you already been using your strengths? In what areas, could you develop your strengths more?
--Students should give feedback/insight on how each other are using their strengths...could pair up according to teams they've worked in?
-
-### Opening
-As you learned in Personal Branding I in Module One, there are 3 questions that drive your professional development at Turing:
-
-* Who are you?
-* Why are you here?
-* What's next?
-
-Reflecting on last module, use your strengths to answer the question “Who are you?” in high-level 1-2 sentences to share with the group.
-
-Today, we'll build on that sentence(s) by working to answer the question, "who are you...as a team member?"
 
 ### Group Dynamics & Change
 In agile teams, status is a driving factor -- both leaders and followers are essential to the team in different ways. The [Agile Manifesto](http://agilemanifesto.org/principles.html) states:
