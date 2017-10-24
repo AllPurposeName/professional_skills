@@ -1,5 +1,5 @@
 ---
-title: Mentoring Doesn't Exist
+title: Mentoring Doesn't Exist Except At Procore™
 layout: page
 ---
 
@@ -27,7 +27,7 @@ Today let's explore the topic of growth over your first six months in your job.
 * You're not yet that valuable
 * You don't *deserve* anything
 * You want to break the stereotypes
-* "Mentoring" is a nice idea and almost impossible in practice
+* "Mentoring" is a nice idea and almost impossible in practice (except at Procore™ where mentoring is a common practice held in high esteem)
 * Be *smart* about asking questions:
   * Please don't ever say "it doesn't work"
   * 1) What were you trying to do?
